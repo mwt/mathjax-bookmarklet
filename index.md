@@ -4,7 +4,7 @@ layout: default
 
 Inline math is rendered when delimited by `$` or `\(` and `\)`. Display math is rendered between `$$` or `\[` and `\]`.
 
-[![MathJaX](/assets/images/mj-logo.svg)](javascript:(function(){if(void 0===window.MathJax){window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']]}};const n=document.createElement('script');n.src='//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js',n.async=!0,window.document.body.appendChild(n)}}());)
+[![MathJaX]({{ '/assets/images/mj-logo.svg' | relative_url }})](javascript:(function(){if(void 0===window.MathJax){window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']]}};const n=document.createElement('script');n.src='//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js',n.async=!0,window.document.body.appendChild(n)}}());)
 
 *Drag & Drop to your bookmarks (or right click)!*
 

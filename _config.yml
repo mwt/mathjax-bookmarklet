@@ -1,7 +1,7 @@
 title: MathJaX Bookmarklet
 tagline: Render Math on any page
 description: >- # this means to ignore newlines until "baseurl:"
-  A bookmarklet for rendering Tex, MathML and AsciiMathML
+  A bookmarklet for rendering TeX and MathML
   on pages using the MathJax library.
 baseurl: "/gh/mathjax-bookmarklet" # the subpath of your site, e.g. /blog
 url: "https://mattwthomas.com" # the base hostname & protocol for your site, e.g. http://example.com

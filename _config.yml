@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A bookmarklet for rendering TeX and MathML
   on pages using the MathJax library.
 baseurl: "/gh/mathjax-bookmarklet" # the subpath of your site, e.g. /blog
-url: "https://mattwthomas.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.matthewthom.as" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-architect
@@ -13,5 +13,5 @@ exclude:
   - README.md
 
 github:
-  owner_name: "Matthew Wildrick Thomas"
-  owner_url: "https://mattwthomas.com"
+  owner_name: "Matthew W. Thomas"
+  owner_url: "https://www.matthewthom.as"
